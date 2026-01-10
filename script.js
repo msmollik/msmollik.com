@@ -1,7 +1,5 @@
 // Main JavaScript file for Ms. Mollik's dynamic website
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Ms. Mollik\'s website loaded successfully!');
-    
     // Initialize all animations and interactions
     initTypewriter();
     initScrollAnimations();
@@ -14,8 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // Typewriter effect for the name
 function initTypewriter() {
     const nameElement = document.getElementById('typed-name');
-    const text = 'Mohammad Sohel \n
-        Owner Of Coding With Ms YouTube Channel ';
+    const text = 'Welcome to \n Coding With Ms Website Owner Of Coding With Ms YouTube Channel ';
     let index = 0;
     
     // Clear the text initially
@@ -325,3 +322,4 @@ window.addEventListener('load', () => {
 
 
 console.log('🎨 Ms. Mollik\'s dynamic website is ready with amazing animations!');
+
