@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // Typewriter effect for the name
 function initTypewriter() {
     const nameElement = document.getElementById('typed-name');
-    const text = 'Welcome to \n Coding With Ms Website Owner Of Coding With Ms YouTube Channel ';
+    const text = 'Welcome to \n Ms Mollik Website';
     let index = 0;
     
     // Clear the text initially
@@ -322,4 +322,5 @@ window.addEventListener('load', () => {
 
 
 console.log('🎨 Ms. Mollik\'s dynamic website is ready with amazing animations!');
+
 
